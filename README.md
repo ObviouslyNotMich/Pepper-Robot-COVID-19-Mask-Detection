@@ -1,2 +1,5 @@
-# Pepper-Robot-COVID-19-Mask-Detection
-Repo with code for display purposes only
+# IT101B-3
+
+
+Pepper code for the project agile development.
+![](KompasRobot.png)
